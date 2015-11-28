@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storyworld.CSharp.Plugins", "Storyworld.CSharp.Plugins.csproj", "{D41658FB-4EA4-7602-F917-8EF46CF4D036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storyworld.CSharp", "Storyworld.CSharp.csproj", "{034A5425-2E49-8FFF-DD69-09D56E59429E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storyworld.CSharp.Editor", "Storyworld.CSharp.Editor.csproj", "{E328BFDE-084F-0C0B-A6C9-DEC0E4055517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D41658FB-4EA4-7602-F917-8EF46CF4D036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41658FB-4EA4-7602-F917-8EF46CF4D036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41658FB-4EA4-7602-F917-8EF46CF4D036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41658FB-4EA4-7602-F917-8EF46CF4D036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034A5425-2E49-8FFF-DD69-09D56E59429E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034A5425-2E49-8FFF-DD69-09D56E59429E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034A5425-2E49-8FFF-DD69-09D56E59429E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034A5425-2E49-8FFF-DD69-09D56E59429E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E328BFDE-084F-0C0B-A6C9-DEC0E4055517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E328BFDE-084F-0C0B-A6C9-DEC0E4055517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E328BFDE-084F-0C0B-A6C9-DEC0E4055517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E328BFDE-084F-0C0B-A6C9-DEC0E4055517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

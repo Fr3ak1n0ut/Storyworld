@@ -81,6 +81,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\NormalInvert.cs" />
+    <Compile Include="Assets\Rocks and Boulders 2\Shaders\RotateGameObject.cs" />
+    <Compile Include="Assets\Rocks and Boulders 2\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
     <Compile Include="Assets\RotateSphere.cs" />
     <Compile Include="Assets\StartGame.cs" />
     <Compile Include="Assets\torch\scene\script\TorchSlider.cs" />
@@ -89,6 +91,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Fantasy Defensive Structures\Fantasy Defensive Strucures\Readme.txt" />
+    <None Include="Assets\Medieval props\Read me.txt" />
+    <None Include="Assets\Rocks and Boulders 2\Shaders\Blend SM2.shader" />
+    <None Include="Assets\Rocks and Boulders 2\Shaders\Blend SM3.shader" />
+    <None Include="Assets\Rocks and Boulders 2\Shaders\Desaturate\DesaturateEffect.shader" />
+    <None Include="Assets\Rocks and Boulders 2\Shaders\shader info.txt" />
+    <None Include="Assets\Rocks and Boulders 2\readme.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
@@ -103,7 +111,6 @@
     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
     <None Include="Assets\ghoul\shader\ghoulshader.shader" />
-    <None Include="Assets\license.txt" />
     <None Include="Assets\torch\readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />

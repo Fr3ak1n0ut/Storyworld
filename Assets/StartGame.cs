@@ -5,7 +5,7 @@ public class StartGame : MonoBehaviour {
 
     public GameObject fps;
     bool moveable;
-    private float speed = 3.0f;
+    public float speed = 2.0f;
     Vector3 movement;
 	// Use this for initialization
 	void Start () {
